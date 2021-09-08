@@ -12,3 +12,4 @@ ZCZC W00 125 L02 Zoom meetings related
 ZCZC W01 90 L02 Zoom meetings related
 ZCZC W01 5 L61 Reinstall Virtual Box
 ZCZC W01 10 L11 Assignment #01
+ZCZC W01 40 L12 Assignment #02
