@@ -17,6 +17,8 @@ navbarlinks:
   link:      "https://github.com/tanpeep/os212/"
 - navbar:    "Listing"
   link:      "/000.html"
+- navbar:    "Log"
+  link:      "https://tanpeep.github.io/os212/TXT/mylog.txt"
 - navbar:    "About"
   link:      "/ABOUT/"
 title:       "tanpeep | os212"
