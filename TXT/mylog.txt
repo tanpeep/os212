@@ -27,3 +27,4 @@ ZCZC W02 5 L14 Assignment #04 : Generate a GnuPG Key Pair
 ZCZC W02 10 L15 Assignment #05 : List of all GnuPG Keys
 ZCZC W02 5 L16 Assignment #06 : Importing the Operating Systems public key
 ZCZC W02 5 L18 Assignment #08 : Export my public key to repo file
+ZCZC W02 5 L09 Assignment in General : Write myscript.sh to generate SHA256SUM
