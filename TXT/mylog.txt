@@ -29,3 +29,4 @@ ZCZC W02 5 L16 Assignment #06 : Importing the Operating Systems public key
 ZCZC W02 5 L18 Assignment #08 : Export my public key to repo file
 ZCZC W02 5 L09 Assignment in General : Write myscript.sh to generate SHA256SUM
 ZCZC W02 20 L20 Assignment #10 : Review my peer links
+ZCZC W02 15 L12 Assignment #02 : Try Demos Week02
