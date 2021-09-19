@@ -30,3 +30,5 @@ ZCZC W02 5 L18 Assignment #08 : Export my public key to repo file
 ZCZC W02 5 L09 Assignment in General : Write myscript.sh to generate SHA256SUM
 ZCZC W02 20 L20 Assignment #10 : Review my peer links
 ZCZC W02 15 L12 Assignment #02 : Try Demos Week02
+ZCZC W02 5 L17 Assignment #07 : Signing the Operating Systems public key
+ZCZC W02 60 L11 Assignment #01 : Read OSC10 chapter 16 + chapter 17
