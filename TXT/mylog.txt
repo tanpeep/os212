@@ -34,3 +34,4 @@ ZCZC W02 5 L17 Assignment #07 : Signing the Operating Systems public key
 ZCZC W02 60 L11 Assignment #01 : Read OSC10 chapter 16 + chapter 17
 ZCZC W02 5 L19 Assignment #09 : Update my bookmark links
 ZCZC W02 15 L09 Assignment in General : Update my log
+ZCZC W02 30 L13 Assignment #03 : Watch Cyber Security Introduction
