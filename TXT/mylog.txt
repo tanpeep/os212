@@ -35,3 +35,12 @@ ZCZC W02 60 L11 Assignment #01 : Read OSC10 chapter 16 + chapter 17
 ZCZC W02 5 L19 Assignment #09 : Update my bookmark links
 ZCZC W02 15 L09 Assignment in General : Update my log
 ZCZC W02 30 L13 Assignment #03 : Watch Cyber Security Introduction
+ZCZC W03 10 L14 Assignment #04 : Check if my ".bash_aliases" file is up-todate
+ZCZC W03 60 L11 Assignment #01 : Read OSC10 chapter 13 + chapter 14 + chapter 15
+ZCZC W03 45 L15 Assignment #05 : Add/Create An Extra Virtual Disk
+ZCZC W03 60 L12 Assignment #02 : Try Demos Week03
+ZCZC W03 15 L17 Assignment #07 : Review my peer links
+ZCZC W03 5 L16 Assignment #06 : Update my bookmark links
+ZCZC W03 30 L13 Assignment #03 : Try Previous MidTem Problems
+ZCZC W03 10 L18 Assignment #08 : Update my log
+ZCZC W03 5 L19 Assignment #09 : Submit My Week 03 Assignment
