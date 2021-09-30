@@ -44,3 +44,5 @@ ZCZC W03 5 L16 Assignment #06 : Update my bookmark links
 ZCZC W03 30 L13 Assignment #03 : Try Previous MidTem Problems
 ZCZC W03 10 L18 Assignment #08 : Update my log
 ZCZC W03 5 L19 Assignment #09 : Submit My Week 03 Assignment
+ZCZC W04 5 L14 Assignment #04 : Install Package List 2 (TLPI)
+ZCZC W04 15 L15 Assignment #05 : Fetch and Extract File "Week04.tar.bz2.asc"
