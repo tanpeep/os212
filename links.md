@@ -15,3 +15,9 @@ This page provides us an introduction of file systems. It is easy to understand 
 
 4. [What Is a File System, and Why Are There So Many of Them?](https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/)<br>
 This page provides another insight of file systems and the reason why there are so many of them.
+
+5. [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+Articles about definition of big and little endian, how to determine endianness of our machine, and how the endianness matter for programmers.
+
+6. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+This pages provides explanation of memory management, loading, paging, address, etc.. The explanation given is short and clear.
