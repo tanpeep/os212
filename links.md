@@ -22,5 +22,5 @@ Articles about definition of big and little endian, how to determine endianness 
 6. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 This pages provides explanation of memory management, loading, paging, address, etc.. The explanation given is short and clear.
 
-7. [Operating System - Virtual Memory] (https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+7. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 This page contains definition of virtual memory, paging, and algorithm used in virtual memory management.
