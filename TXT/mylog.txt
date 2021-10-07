@@ -54,3 +54,13 @@ ZCZC W04 15 L17 Assignment #07 : Review my peer links
 ZCZC W04 5 L18 Assignment #08 : Update my log
 ZCZC W04 120 L02 Zoom meetings related
 ZCZC W04 5 L19 Assignment #09 : Submit my Week04 assignment
+ZCZC W05 100 L02 Zoom meetings related
+ZCZC W05 45 L11 Assignment #01 : Read OSC10 Chapter 10
+ZCZC W05 30 L12 Assignment #02 : Try Demos Week05
+ZCZC W05 30 L13 Assignment #03 : Try Previous MidTem Problems
+ZCZC W05 60 L14 Assignment #04 : How Low Memory Can I Go
+ZCZC W05 10 L15 Assignment #05 : Update my bookmark links
+ZCZC W05 15 L16 Assignment #06 : Tips for the next semester class
+ZCZC W05 15 L17 Assignment #07 : Review my peer links
+ZCZC W05 5 L18 Assignment #08 : Update my log
+ZCZC W05 5 L19 Assignment #09 : Submit my week 05 assignment

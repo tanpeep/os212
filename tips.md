@@ -4,18 +4,8 @@ permalink: /TIPS/
 
 # TIPS
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+1. [G-S-G-S]<br>
+Almost every topics and problems can be found in the internet. So if you know how to search a problem by the right keyword, you'll always find the answer.
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
-
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
+2. [Try Previous MidTem Problem]<br>
+In every weekly quiz, the problems is similar to MidTem Problems related topic. Try it before quiz and you can answer it easily.
