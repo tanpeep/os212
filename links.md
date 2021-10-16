@@ -24,3 +24,12 @@ This pages provides explanation of memory management, loading, paging, address, 
 
 7. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 This page contains definition of virtual memory, paging, and algorithm used in virtual memory management.
+
+8. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+This article give the explanation of process concept, life cycle, and control block. This articles will be a good start to learn about process in operating system.
+
+9. [Operating System - Scheduling algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+Article about some algorithms that used to schedules different processes in CPU.
+
+10. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+When we learn about process, we also will learn about fork. This page gives you insight that you need to know about fork().
