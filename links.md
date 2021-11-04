@@ -33,3 +33,12 @@ Article about some algorithms that used to schedules different processes in CPU.
 
 10. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 When we learn about process, we also will learn about fork. This page gives you insight that you need to know about fork().
+
+11. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+This article describes the concept of process synchronization in Operating System. The explanation given is clear and comprehensive
+
+12. [Classical Problems of Synchronization](https://www.studytonight.com/operating-system/classical-problems-of-synchronization)<br>
+This page provide some classic problems in synchronization. This page will help you know more about synchronization.
+
+13. [Process Deadlocks in Operating System](https://www.tutorialspoint.com/process-deadlocks-in-operating-system)<br>
+Article about process deadlocks and how deadlocks happen. What makes this article interesting because there's diagram for every condition so its more understandable.

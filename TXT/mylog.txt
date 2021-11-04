@@ -73,3 +73,13 @@ ZCZC W06 20 L15 Assignment #05 : Update my bookmark links
 ZCZC W06 20 L17 Assignment #07 : Review my peer links
 ZCZC W06 10 L18 Assignment #08 : Update my log
 ZCZC W06 5 L19 Assignment #09 : Submit my Week 06 Assignment
+ZCZC W07 90 L11 Assignment #01 : Read OSC10 Chapter 6, 7, 8
+ZCZC W07 30 L12 Assignment #02 : Try Demos Week07
+ZCZC W07 30 L13 Assignment #03 : Try Previous Midtem Problems
+ZCZC W07 30 L14 Assignment #04 : Synchronization and Shared Memory
+ZCZC W07 140 L02 Zoom meetings related
+ZCZC W07 20 L15 Assignment #05 : Update my bookmark links
+ZCZC W07 15 L17 Assignment #07 : Review my peer links
+ZCZC W07 10 L16 Assignment #06 : Tips for next semester class
+ZCZC W07 5 L18 Assignment #08 : Update my log
+ZCZC W07 5 L19 Assignment #09 : Submit my week 07 assignment
