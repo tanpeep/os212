@@ -83,3 +83,13 @@ ZCZC W07 15 L17 Assignment #07 : Review my peer links
 ZCZC W07 10 L16 Assignment #06 : Tips for next semester class
 ZCZC W07 5 L18 Assignment #08 : Update my log
 ZCZC W07 5 L19 Assignment #09 : Submit my week 07 assignment
+ZCZC W08 120 L02 Zoom meetings related
+ZCZC W08 30 L11 Assignment #01 : Read OSC10 Chapter 5
+ZCZC W08 25 L12 Assignment #02 : Try Demos Week08
+ZCZC W08 20 L13 Assignment #03 : Try previous finalterm problems
+ZCZC W08 30 L14 Assignment #04 : Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08 150 L15 Assignment #05 : Linux From Scratch 11.0 Chapter 05
+ZCZC W08 15 L16 Assignment #06 : Update my bookmark links
+ZCZC W08 5 L17 Assignment #07 : Tips for next semester class
+ZCZC W08 15 L18 Assignment #08 : Review my peer links
+ZCZC W08 5 L19 Assignment #09 : Update my log

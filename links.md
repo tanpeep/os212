@@ -42,3 +42,12 @@ This page provide some classic problems in synchronization. This page will help 
 
 13. [Process Deadlocks in Operating System](https://www.tutorialspoint.com/process-deadlocks-in-operating-system)<br>
 Article about process deadlocks and how deadlocks happen. What makes this article interesting because there's diagram for every condition so its more understandable.
+
+14. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+A brief explanation about cpu scheduling. Also include with some type of cpu scheduling algorithm. The explanation given is clear and easy to understand.
+
+15. [Linux From Scratch 11, a distro to learn about Linux](https://www.itsfoss.net/linux-from-scratch-11/)<br>
+This article provide LFS 11 explanation, what's new on LFS 11, difference between LFS 11 and older version. This will give us more insight about LFS.
+
+16. [Playlist - How to compile Linux From Scratch 11.0 on an Apple iMac](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+This playlist will help you on compiling LFS 11, and also help you understand the documentation given from LFS.
