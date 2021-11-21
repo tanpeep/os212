@@ -93,3 +93,11 @@ ZCZC W08 15 L16 Assignment #06 : Update my bookmark links
 ZCZC W08 5 L17 Assignment #07 : Tips for next semester class
 ZCZC W08 15 L18 Assignment #08 : Review my peer links
 ZCZC W08 5 L19 Assignment #09 : Update my log
+ZCZC W09 90 L02 Zoom meetings related
+ZCZC W09 30 L11 Assignment #01 : Read OSC10 Chapter 11
+ZCZC W09 20 L12 Assignment #02 : Try Demos Week09
+ZCZC W09 20 L13 Assignment #03 : Try previous finalterm problems
+ZCZC W09 240 L14 Assignment #04 : LFS 11.0 part 2
+ZCZC W09 15 L15 Assignment #05 : Update my bookmark links
+ZCZC W09 15 L17 Assignment #07 : Review my peer links
+ZCZC W09 5 L18 Assignment #08 : Update my log

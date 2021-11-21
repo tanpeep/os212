@@ -51,3 +51,9 @@ This article provide LFS 11 explanation, what's new on LFS 11, difference betwee
 
 16. [Playlist - How to compile Linux From Scratch 11.0 on an Apple iMac](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
 This playlist will help you on compiling LFS 11, and also help you understand the documentation given from LFS.
+
+17. [What is RAID?](https://www.javatpoint.com/what-is-raid)<br>
+All you need to know about RAID is written here.
+
+18. [Mass Storage Management](https://www.tutorialspoint.com/Mass-Storage-Management)<br>
+This page will tell you about how the disk management works and some algorithms thaht used on disk scheduling.
